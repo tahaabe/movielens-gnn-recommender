@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# Data folder
+data/
+dataset/
+*.csv
+
+# Model files (if large)
+model/*.pt
